@@ -1,0 +1,24 @@
+.homeDoctor {
+  background-color: #ebeef3;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.homeDoctor h2 {
+  color: #2ec1e5;
+}
+.doctor-cards {
+  text-align: center;
+}
+.doctor-cards img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.doctor-card {
+  margin-top: 20px;
+  width: 350px;
+}
+.degree {
+  color: #2ec1e5;
+}

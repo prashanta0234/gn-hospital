@@ -1,0 +1,65 @@
+[
+  {
+    "name": "HOSPITAL SERVICE",
+    "icon": "https://static.thenounproject.com/png/41326-200.png",
+    "description": "GN Hospital the hospital service in 24 hours. Many patients has satisfied with the hospital service",
+    "image": "https://i.ibb.co/17tH91Z/service1.jpg",
+    "id":1
+  },
+  {
+    "name": "DIAGNOSTIC SERVICE",
+    "icon": "https://cdn2.vectorstock.com/i/1000x1000/94/66/diagnostic-test-rgb-color-icon-vector-35339466.jpg",
+    "description": "GN Hospital provide the best diagnosis service in Health Sector.",
+    "image": "https://i.ibb.co/RTjWtRw/service2.jpg",
+    "id":2
+  },
+  {
+    "name": "EMERGENCY SERVICES",
+    "icon": "https://img.favpng.com/20/2/11/ambulance-iconfinder-emergency-medical-services-icon-png-favpng-ZtvmDNgtvAxfEHUKrR6QaUKJ6.jpg",
+    "description": "GN Hospital provide the Emmergency Service for the patients who needs quick medicine.",
+    "image": "https://i.ibb.co/fHmJSjY/service3.jpg",
+    "id":3
+  },
+  {
+    "name": "OPERATION SERVICE",
+    "icon": "https://w7.pngwing.com/pngs/917/363/png-transparent-operating-theater-surgery-medicine-disease-health-care-operating-room-furniture-logo-medicine-thumbnail.png",
+    "description": "GN  Hospital ltd provides the Operation service for the patients who needs Surgery.",
+    "image": "https://i.ibb.co/Y21kqnV/service4.png",
+    "id":4
+  },
+  {
+    "name": "24 / 7 PHARMACY",
+    "icon": " https://cdn1.iconfinder.com/data/icons/medical-7-color-shadow/128/twenty-four-by-seven_medical-service_convenience_medical_service-512.png",
+    "description": "GN Hospital pharmacy available 24 hours for the patients who needs medicines.",
+    "image": "https://i.ibb.co/1Qmwtct/service5.png",
+    "id":5
+  },
+  {
+    "name": "AMBULANCE SERVICE",
+    "icon": "https://toppng.com/public/uploads/thumbnail/ambulance-emergency-hospital-van-icon-icon-11553466512bjy0exgysj.png",
+    "description": "GN Hospital,s Ambulance is available 24 hours for the patients who needs safe transport.",
+    "image": "https://i.ibb.co/ZN9NQKb/service6-1.jpg",
+    "id":6
+  },
+  {
+    "name": "KIDS CORNER",
+    "icon": "<i class=\"fas fa-baby\"></i>",
+    "description": "GN Hospital have a kinds play gorund. lts has Kids Playground at the 5th floor of Hospital building.",
+    "image": "https://i.ibb.co/bz8pv6b/service7.jpg",
+    "id":7
+  },
+  {
+    "name": "PRAYER ROOM",
+    "icon": "<i class=\"fas fa-praying-hands\"></i>",
+    "description": "GN Hospital have a prayer Room it has 7th floor of the hospital.",
+    "image": "https://i.ibb.co/tZt8X0y/service8.jpg",
+    "id":8
+  },
+  {
+    "name": "DENTEST SERVICE",
+    "icon": "<i class=\"fas fa-tooth\"></i>",
+    "description": "GN Hospital have destist sector if you are our regular clint you can service free.",
+    "image": "https://i.ibb.co/b72W7bQ/service9.jpg",
+    "id":9
+  }
+]

@@ -1,0 +1,32 @@
+.homeService h2 {
+  margin: 2rem;
+  text-align: center;
+}
+.service-card {
+  height: 200px;
+}
+.service-card:hover {
+  background-color: #2ec1e5;
+  color: white;
+}
+.serviceCard {
+  display: flex;
+  margin-top: 10px;
+}
+.serviceCard img {
+  border-radius: 50%;
+}
+.serviceCard button {
+  padding: 5px 15px;
+  background-color: #2ec1e5;
+  border: none;
+  border-radius: 5px;
+  margin-top: 8px;
+}
+.service-card:hover button {
+  background-color: black;
+  color: white;
+}
+.item {
+  margin: 10px;
+}

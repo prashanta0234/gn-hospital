@@ -1,0 +1,30 @@
+.footer {
+  background-color: lightgray;
+  margin-top: 4rem;
+}
+.footer input {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+.footer button {
+  border: none;
+  background-color: lightseagreen;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.fab {
+  font-size: 2rem;
+}
+.openingTime {
+  display: flex;
+  justify-content: space-between;
+}
+.copyRight {
+  text-align: center;
+  background-color: rgb(130, 143, 160);
+  padding: 20px;
+  color: white;
+}

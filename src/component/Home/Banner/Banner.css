@@ -1,0 +1,27 @@
+.banner img {
+  height: 500px;
+  position: relative;
+}
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Public Sans", sans-serif;
+}
+.weEnsure {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.banner-text h1 {
+  color: #2ec1e5;
+  font-family: "Public Sans", sans-serif;
+}
+.banner-text button {
+  margin-top: 20px;
+  padding: 8px 20px;
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}

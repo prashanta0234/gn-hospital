@@ -1,0 +1,12 @@
+.counter {
+  margin: 2rem;
+}
+.counterMain {
+  background-color: lightseagreen;
+  padding: 2rem;
+  margin: 2rem;
+}
+.counterItem {
+  text-align: center;
+  color: white;
+}

@@ -1,0 +1,14 @@
+.aboutUs {
+  margin-top: 2rem;
+  background-color: lightgray;
+}
+.aboutUs h2 {
+  color: #2ec1e5;
+  padding: 2rem;
+}
+.about-item {
+  margin: 2rem;
+}
+.about-item img {
+  width: 100%;
+}

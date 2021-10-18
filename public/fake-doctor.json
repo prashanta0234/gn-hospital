@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Syed Atiqul Haq",
+    "degree": "MBBS, FRCP, MD",
+    "image": " https://i.ibb.co/Kjw1N1F/dr1.jpg"
+  },
+  {
+    "name": "Quazi Tarikul Islam",
+    "degree": "MBBS, FCPS (Medicine)",
+    "image": "https://i.ibb.co/wcrTkhQ/dr2.jpg "
+  },
+  {
+    "name": "AKM Fazlul Haque",
+    "degree": "MBBS, FCPS, FICS (USA)",
+    "image": " https://i.ibb.co/12k9vNL/dr3.jpg"
+  },
+  {
+    "name": "ABM Abdullah",
+    "degree": "MRCP(UK), FRCP(Edin)",
+    "image": " https://i.ibb.co/G5Cmq19/dr4.jpg"
+  },
+  {
+    "name": "Sayeba Akhter",
+    "degree": "MBBS, FCPS(BD)",
+    "image": " https://i.ibb.co/R7ST1dQ/dr5.jpg"
+  },
+  {
+    "name": "Dr. Mihir Kanti Adhikari",
+    "degree": "MBBS (Dhaka), MD (International Medicine)",
+    "image": "https://i.ibb.co/CvjD4yF/dr6.jpg "
+  }
+]
