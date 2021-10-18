@@ -1,0 +1,7 @@
+.doctors {
+  min-height: 50vh;
+  margin-top: 3rem;
+}
+.doctors h2 {
+  color: turquoise;
+}

@@ -43,21 +43,21 @@
   },
   {
     "name": "KIDS CORNER",
-    "icon": "<i class=\"fas fa-baby\"></i>",
+    "icon": "https://image.winudf.com/v2/image1/Y29tLnRyaWxvYml0ZXNvZnQua2NfaWNvbl8xNTUxODcwODg2XzAzMw/icon.png?w=&fakeurl=1",
     "description": "GN Hospital have a kinds play gorund. lts has Kids Playground at the 5th floor of Hospital building.",
     "image": "https://i.ibb.co/bz8pv6b/service7.jpg",
     "id":7
   },
   {
     "name": "PRAYER ROOM",
-    "icon": "<i class=\"fas fa-praying-hands\"></i>",
+    "icon": "https://www.nicepng.com/png/detail/244-2445906_hindu-hand-symbol-prayer-hands-vector-png.png",
     "description": "GN Hospital have a prayer Room it has 7th floor of the hospital.",
     "image": "https://i.ibb.co/tZt8X0y/service8.jpg",
     "id":8
   },
   {
     "name": "DENTEST SERVICE",
-    "icon": "<i class=\"fas fa-tooth\"></i>",
+    "icon": "https://png.pngtree.com/png-vector/20191027/ourmid/pngtree-dental-clinic-glyph-icon-vector-png-image_1885725.jpg",
     "description": "GN Hospital have destist sector if you are our regular clint you can service free.",
     "image": "https://i.ibb.co/b72W7bQ/service9.jpg",
     "id":9
