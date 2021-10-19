@@ -29,3 +29,8 @@
 .navItem {
   display: flex;
 }
+.displayName {
+  margin-left: 10px;
+  color: black;
+  text-decoration: black;
+}

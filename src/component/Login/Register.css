@@ -1,0 +1,22 @@
+.register-from {
+  margin-top: 3rem;
+  min-height: 50vh;
+}
+.input {
+  max-width: 500px;
+}
+.register {
+  padding: 5px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: turquoise;
+}
+.loginFooter {
+  display: flex;
+  justify-content: space-around;
+}
+.loginFooter button {
+  border: none;
+  background-color: transparent;
+  color: blue;
+}

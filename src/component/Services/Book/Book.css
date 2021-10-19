@@ -1,0 +1,11 @@
+.booking-input {
+  max-width: 500px;
+  margin-top: 3rem;
+}
+.booking-btn button {
+  padding: 5px 15px;
+  background-color: #2ec1e5;
+  border: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+}

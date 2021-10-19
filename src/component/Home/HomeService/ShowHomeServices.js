@@ -3,9 +3,10 @@ import { Card, Col } from "react-bootstrap";
 import "./HomeService.css";
 import "font-awesome/css/font-awesome.min.css";
 import "./HomeService.css";
+import { Link } from "react-router-dom";
 const ShowHomeServices = ({ services }) => {
   console.log(services);
-  const { name, icon, description } = services;
+  const { name, icon, description, id } = services;
   return (
     <div>
       <Col>
@@ -17,7 +18,13 @@ const ShowHomeServices = ({ services }) => {
             <div className="item">
               <h4>{name}</h4>
               <h6>{description.slice(0, 50)}</h6>
-              <button>Details</button>
+              <Link to={`/servicedetail/${id}`}>
+                <button>Details</button>
+              </Link>
+              &nbsp;
+              <Link to="/book">
+                <button>Book</button>
+              </Link>
             </div>
           </div>
         </Card>

@@ -7,9 +7,11 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 import logo from "../../image/logo/Logo.png";
 import { NavLink } from "react-router-dom";
 import Button from "@restart/ui/esm/Button";
+import useAuth from "../hooks/useAuth";
 const Header = () => {
   const phone = <FontAwesomeIcon icon={faPhoneAlt} />;
   const mail = <FontAwesomeIcon icon={faEnvelope} />;
+  const { user, logOut } = useAuth();
   return (
     <div>
       <div className="contact">
@@ -61,7 +63,13 @@ const Header = () => {
                   Depertment
                 </NavLink>
                 <NavLink to="/login">
-                  <Button variant="danger">Login</Button>
+                  {!user?.email ? (
+                    <Button variant="danger">Login</Button>
+                  ) : (
+                    <button onClick={logOut}> Logout</button>
+                  )}
+
+                  <span className="displayName">{user.displayName}</span>
                 </NavLink>
               </Nav>
             </Navbar.Collapse>

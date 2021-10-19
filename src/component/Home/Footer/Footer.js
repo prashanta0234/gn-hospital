@@ -16,11 +16,11 @@ const Footer = () => {
               <button>Send</button>
               <p>--------------------------</p>
               <a href="https://www.facebook.com/prashanta.chakraborty.14">
-                <i class="fab fa-facebook"></i>
+                <i className="fab fa-facebook"></i>
               </a>{" "}
               &nbsp;
               <a href="https://twitter.com/Prashantachak11/likes">
-                <i class="fab fa-twitter-square"></i>
+                <i className="fab fa-twitter-square"></i>
               </a>
             </Col>
             <Col className="mx-auto">

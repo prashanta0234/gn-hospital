@@ -1,9 +1,9 @@
 import React from "react";
 import { Card, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const ShowServices = ({ services }) => {
-  console.log(services);
-  const { name, icon, description } = services;
+  const { name, icon, description, id } = services;
   return (
     <div>
       <Col>
@@ -15,7 +15,13 @@ const ShowServices = ({ services }) => {
             <div className="item">
               <h4>{name}</h4>
               <h6>{description.slice(0, 50)}</h6>
-              <button>Details</button>
+              <Link to={`/servicedetail/${id}`}>
+                <button>Details</button>
+              </Link>
+              &nbsp;
+              <Link to="/book">
+                <button>Book</button>
+              </Link>
             </div>
           </div>
         </Card>
