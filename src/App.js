@@ -13,6 +13,7 @@ import AuthProvider from "./component/context/AuthProvider";
 import PrivateRoute from "./component/privateRoute/PrivateRoute";
 import Book from "./component/Services/Book/Book";
 import ServiceDetails from "./component/ServiceDetails/ServiceDetails";
+import Notfound from "./component/notFound/Notfound";
 
 initialize();
 function App() {
@@ -45,6 +46,9 @@ function App() {
             </Route>
             <Route exact path="/">
               <Home></Home>
+            </Route>
+            <Route>
+              <Notfound></Notfound>
             </Route>
           </Switch>
           <Footer></Footer>
